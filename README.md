@@ -10,7 +10,6 @@ The project combines Advanced Programming and Data Engineering concepts to build
 	•	Provide analytics on food wastage and meal demand
 	•	Help mess administrators make better preparation decisions
 	•	Maintain structured and reliable food-related data
-	•	Explore both relational and NoSQL database approaches
 
 
 The goal is to create a simple, practical, and scalable campus mess management system where operational data can be transformed into useful insights, ultimately helping reduce unnecessary food waste and improve meal planning.
